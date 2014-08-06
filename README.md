@@ -2,7 +2,7 @@
 
 ## Note to student evaluator
 
-Please not that I chose not to for the fork the repo at https://github.com/rdpeng/ExData_Plotting1. Rather, I cloned it and created my own repo from that. It contains exactly the same files.
+Please note that I chose not to for the fork the repo at https://github.com/rdpeng/ExData_Plotting1. Rather, I cloned it and created my own repo from that. It contains exactly the same files.
 
 ## Introduction
 
